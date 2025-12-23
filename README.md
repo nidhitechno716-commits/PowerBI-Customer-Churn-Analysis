@@ -1,4 +1,10 @@
-# PowerBI-Customer-Churn-Analysis
+#SQL scripts available in `SQL-Scripts/ExtractAndCleanData.sql`  
+  - Handles null or blank values  
+  - Filters only relevant records  
+  - Prepares data for Power BI analysis
+
+
+#PowerBI-Customer-Churn-Analysis
 Power BI dashboard analyzing customer churn for telecom
 # Customer Churn Analysis Dashboard
 
